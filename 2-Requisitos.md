@@ -58,22 +58,3 @@ Deve funcionar nos principais navegadores (Chrome, Firefox, Edge) e ser responsi
 
 ---
 
-**Pronto!**
-
-Agora faça o mesmo processo anterior:
-
-1. Crie o arquivo **`2-Requisitos.md`** no repositório
-2. Cole o conteúdo acima
-3. Faça o Commit
-
----
-
-Quando terminar de subir, me avise com **“Subi”** ou **“Pronto”**.
-
-Depois disso, vamos para o passo seguinte (que geralmente é um dos mais importantes para avaliação):
-
-- Diagramas UML (Casos de Uso, Classes, etc.)  
-ou  
-- Protótipo de telas (Figma)
-
-Me avise quando subir este documento! 🚀
